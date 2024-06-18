@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\Library.Api\\wwwroot\\images\\default_user.png",
+      "PackagePath": "staticwebassets\\images\\default_user.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Library.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Library.Api.props",
+      "PackagePath": "build\\Library.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Library.Api.props",
+      "PackagePath": "buildMultiTargeting\\Library.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Library.Api.props",
+      "PackagePath": "buildTransitive\\Library.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.deps.json
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.runtimeconfig.json
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.dll
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.pdb
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\bin\Debug\net8.0\Library.domain.dll
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\bin\Debug\net8.0\Library.domain.pdb
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.AssemblyInfo.cs
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library..1A4F41CD.Up2Date
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.dll
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\refint\Library.DataAccess.dll
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.pdb
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.genruntimeconfig.cache
+C:\Users\Mateja\source\repos\LibraryProject\Library.DataAccess\obj\Debug\net8.0\ref\Library.DataAccess.dll
