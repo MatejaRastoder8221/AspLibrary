@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\iapplicationactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\iapplicationactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,11 +122,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "IApplicationActor.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\IApplicationActor.cs",
+              "RelativeDocumentMoniker": "Library.Application\\IApplicationActor.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\IApplicationActor.cs",
+              "RelativeToolTip": "Library.Application\\IApplicationActor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:21:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\CreateCategoryDto.cs",
               "RelativeDocumentMoniker": "Library.Application\\DTO\\CreateCategoryDto.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ConsoleExceptionLogger.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\ConsoleExceptionLogger.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\ConsoleExceptionLogger.cs",
@@ -146,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "JwtTokenCreator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\JwtTokenCreator.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\JwtTokenCreator.cs",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreateCategoryDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\CreateCategoryDtoValidator.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\Validators\\CreateCategoryDtoValidator.cs",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Program.cs",
               "RelativeDocumentMoniker": "Library.Api\\Program.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EfCreateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ICreateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
               "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\CategoriesController.cs",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GlobalExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\GlobalExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\GlobalExceptionHandlingMiddleware.cs",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IExceptionLogger.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\IExceptionLogger.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\IExceptionLogger.cs",
@@ -243,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "InMemoryTokenStorage.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\InMemoryTokenStorage.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\InMemoryTokenStorage.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ITokenStorage.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\ITokenStorage.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\ITokenStorage.cs",
@@ -267,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "JwtApplicationActorProvider.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\JwtApplicationActorProvider.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\JwtApplicationActorProvider.cs",
@@ -279,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\AuthController.cs",
@@ -291,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ContainerExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\ContainerExtensions.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\ContainerExtensions.cs",
@@ -303,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EfRegisterUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
@@ -315,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Book.cs",
               "RelativeDocumentMoniker": "Library.domain\\Book.cs",
@@ -327,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "BookCategory.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\BookCategory.cs",
               "RelativeDocumentMoniker": "Library.domain\\BookCategory.cs",
@@ -339,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "NamedEntity.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\NamedEntity.cs",
               "RelativeDocumentMoniker": "Library.domain\\NamedEntity.cs",
@@ -351,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\User.cs",
               "RelativeDocumentMoniker": "Library.domain\\User.cs",
@@ -363,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Category.cs",
               "RelativeDocumentMoniker": "Library.domain\\Category.cs",
@@ -375,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "RegisterUserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\RegisterUserDtoValidator.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\Validators\\RegisterUserDtoValidator.cs",
@@ -387,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AuthRequest.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\DTO\\AuthRequest.cs",
               "RelativeDocumentMoniker": "Library.Api\\DTO\\AuthRequest.cs",
@@ -399,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\AppSettings.cs",
               "RelativeDocumentMoniker": "Library.Api\\AppSettings.cs",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\UserController.cs",
@@ -423,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AspContext.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.DataAccess\\AspContext.cs",
               "RelativeDocumentMoniker": "Library.DataAccess\\AspContext.cs",
@@ -435,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Library.Api\\appsettings.json",

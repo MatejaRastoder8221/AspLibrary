@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WECGNOzxaXcb2b4zwj3TZhgkponYfStZiktWQV67Eo4=",
+  "Hash": "aVeHJPuLPcpOVNH0ivnaZBPjPxfhSQTyaUfiCAq+RFA=",
   "Source": "Library.Api",
   "BasePath": "_content/Library.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Library.Api\\wwwroot",
       "Source": "Library.Api",
-      "ContentRoot": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\Library.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\wwwroot\\",
       "BasePath": "_content/Library.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\Library.Api\\wwwroot\\images\\default_user.png",
+      "Identity": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\wwwroot\\images\\default_user.png",
       "SourceId": "Library.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\Library.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\wwwroot\\",
       "BasePath": "_content/Library.Api",
       "RelativePath": "images/default_user.png",
       "AssetKind": "All",

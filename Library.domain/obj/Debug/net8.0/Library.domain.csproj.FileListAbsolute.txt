@@ -9,3 +9,15 @@ C:\Users\Mateja\source\repos\LibraryProject\Library.domain\obj\Debug\net8.0\Libr
 C:\Users\Mateja\source\repos\LibraryProject\Library.domain\obj\Debug\net8.0\refint\Library.domain.dll
 C:\Users\Mateja\source\repos\LibraryProject\Library.domain\obj\Debug\net8.0\Library.domain.pdb
 C:\Users\Mateja\source\repos\LibraryProject\Library.domain\obj\Debug\net8.0\ref\Library.domain.dll
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\bin\Debug\net8.0\Library.domain.deps.json
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\bin\Debug\net8.0\Library.domain.dll
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\bin\Debug\net8.0\Library.domain.pdb
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.AssemblyInfoInputs.cache
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.AssemblyInfo.cs
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.csproj.CoreCompileInputs.cache
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.sourcelink.json
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.dll
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\refint\Library.domain.dll
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\Library.domain.pdb
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.domain\obj\Debug\net8.0\ref\Library.domain.dll
