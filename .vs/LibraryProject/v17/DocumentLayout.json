@@ -7,24 +7,96 @@
       "RelativeMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.api\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\publishers\\efdeletepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\publishers\\efdeletepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\validators\\updateauthordtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\validators\\updateauthordtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\validators\\createauthordtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\validators\\createauthordtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\authors\\efdeleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\authors\\efdeleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\authors\\efcreateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\authors\\efcreateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\authors\\efupdateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\authors\\efupdateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\publishers\\efupdatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\publishers\\efupdatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\publishers\\efdeletepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\publishers\\efdeletepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\publishers\\efcreatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\publishers\\efcreatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\categories\\efupdatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\categories\\efupdatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\categories\\efdeletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\categories\\efdeletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\categories\\efcreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\categories\\efcreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\usecases\\commands\\authors\\ideleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\usecases\\commands\\authors\\ideleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\usecases\\commands\\authors\\iupdateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\usecases\\commands\\authors\\iupdateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\usecases\\commands\\authors\\icreateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\usecases\\commands\\authors\\icreateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23D1ACB-7727-4627-AE92-BD3A998AAB5D}|Library.domain\\Library.domain.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23D1ACB-7727-4627-AE92-BD3A998AAB5D}|Library.domain\\Library.domain.csproj|solutionrelative:library.domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23D1ACB-7727-4627-AE92-BD3A998AAB5D}|Library.domain\\Library.domain.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.domain\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23D1ACB-7727-4627-AE92-BD3A998AAB5D}|Library.domain\\Library.domain.csproj|solutionrelative:library.domain\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.api\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE3340-DC64-45B2-8076-A7216FA890CF}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\usecases\\commands\\publishers\\iupdatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,22 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\usecases\\commands\\categories\\icreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\usecases\\commands\\categories\\icreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.application\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC76E92A-3F35-43D4-ABEB-3B25E2674D05}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\categories\\efupdatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\categories\\efupdatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\categories\\efdeletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\categories\\efdeletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.implementation\\usecases\\commands\\categories\\efcreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD90D2B5-1450-4CEE-BE17-922AD586AE84}|Library.Implementation\\Library.Implementation.csproj|solutionrelative:library.implementation\\usecases\\commands\\categories\\efcreatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A23D1ACB-7727-4627-AE92-BD3A998AAB5D}|Library.domain\\Library.domain.csproj|c:\\users\\mateja\\source\\repos\\libraryproject\\asplibrary\\library.domain\\userusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -218,97 +274,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PublishersController.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\PublishersController.cs",
-              "RelativeDocumentMoniker": "Library.Api\\Controllers\\PublishersController.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\PublishersController.cs",
-              "RelativeToolTip": "Library.Api\\Controllers\\PublishersController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAJAAAAAJAAAA",
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Library.Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:41:32.621Z",
+              "WhenOpened": "2024-06-19T15:31:45.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateAuthorDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\UpdateAuthorDtoValidator.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\Validators\\UpdateAuthorDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\UpdateAuthorDtoValidator.cs",
+              "RelativeToolTip": "Library.Implementation\\Validators\\UpdateAuthorDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:31:18.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EfUpdatePublisherCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
-              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
-              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Title": "CreateAuthorDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\CreateAuthorDtoValidator.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\Validators\\CreateAuthorDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\CreateAuthorDtoValidator.cs",
+              "RelativeToolTip": "Library.Implementation\\Validators\\CreateAuthorDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:40:27.321Z",
+              "WhenOpened": "2024-06-19T15:31:06.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "EfDeleteAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Authors\\EfDeleteAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Authors\\EfDeleteAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Authors\\EfDeleteAuthorCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Authors\\EfDeleteAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:30:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfUpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:12:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EfCreatePublisherCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfCreatePublisherCommand.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfCreatePublisherCommand.cs",
               "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfCreatePublisherCommand.cs",
               "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfCreatePublisherCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T23:39:26.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PublisherDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\PublisherDtoValidator.cs",
-              "RelativeDocumentMoniker": "Library.Implementation\\Validators\\PublisherDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\PublisherDtoValidator.cs",
-              "RelativeToolTip": "Library.Implementation\\Validators\\PublisherDtoValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:38:37.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDeletePublisherCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
-              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
-              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:34:58.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUpdatePublisherCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
-              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
-              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:34:48.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Library.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Program.cs",
-              "RelativeToolTip": "Library.Api\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAJEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:15:25.848Z",
               "EditorCaption": ""
             },
             {
@@ -319,157 +362,27 @@
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Library.Api\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAIwIgAAAAjAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T23:11:51.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EfDeletePublisherCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
-              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
-              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Program.cs",
+              "RelativeToolTip": "Library.Api\\Program.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAUwHIAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:40:39.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICreatePublisherCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
-              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
-              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:34:24.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PublisherDto.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\PublisherDto.cs",
-              "RelativeDocumentMoniker": "Library.Application\\DTO\\PublisherDto.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\PublisherDto.cs",
-              "RelativeToolTip": "Library.Application\\DTO\\PublisherDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:33:42.267Z",
+              "WhenOpened": "2024-06-15T14:15:25.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ICreateCategoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
-              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
-              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T23:02:43.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IDeleteCategoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
-              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
-              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:21:20.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUpdateCategoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
-              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
-              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:09:46.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EfCreateCategoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
-              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
-              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T23:03:46.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Entity.cs",
-              "RelativeDocumentMoniker": "Library.domain\\Entity.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Entity.cs",
-              "RelativeToolTip": "Library.domain\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:12.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ErrorLog.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\ErrorLog.cs",
-              "RelativeDocumentMoniker": "Library.domain\\ErrorLog.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\ErrorLog.cs",
-              "RelativeToolTip": "Library.domain\\ErrorLog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:13.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GlobalSuppressions.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\GlobalSuppressions.cs",
-              "RelativeDocumentMoniker": "Library.domain\\GlobalSuppressions.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\GlobalSuppressions.cs",
-              "RelativeToolTip": "Library.domain\\GlobalSuppressions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:14.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Reservation.cs",
-              "RelativeDocumentMoniker": "Library.domain\\Reservation.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Reservation.cs",
-              "RelativeToolTip": "Library.domain\\Reservation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:16.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "EfDeleteCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfDeleteCategoryCommand.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Categories\\EfDeleteCategoryCommand.cs",
@@ -482,7 +395,333 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfDeletePublisherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfDeletePublisherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:40:39.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfUpdatePublisherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Publishers\\EfUpdatePublisherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:40:27.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfCreateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Authors\\EfCreateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Authors\\EfCreateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Authors\\EfCreateAuthorCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Authors\\EfCreateAuthorCommand.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:26:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfUpdateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Authors\\EfUpdateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Authors\\EfUpdateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Authors\\EfUpdateAuthorCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Authors\\EfUpdateAuthorCommand.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:26:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EfCreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Categories\\EfCreateCategoryCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T23:03:46.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDeleteAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Authors\\IDeleteAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Authors\\IDeleteAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Authors\\IDeleteAuthorCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Authors\\IDeleteAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:25:34.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUpdateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Authors\\IUpdateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Authors\\IUpdateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Authors\\IUpdateAuthorCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Authors\\IUpdateAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:25:24.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICreateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Authors\\ICreateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Authors\\ICreateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Authors\\ICreateAuthorCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Authors\\ICreateAuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:25:10.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\AuthorDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:24:10.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Author.cs",
+              "RelativeDocumentMoniker": "Library.domain\\Author.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Author.cs",
+              "RelativeToolTip": "Library.domain\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:21:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\BookDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\BookDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:19:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\RegisterUserDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:19:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "Library.domain\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\BorrowRecord.cs",
+              "RelativeToolTip": "Library.domain\\BorrowRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:14:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "PublisherDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\PublisherDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\PublisherDto.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\PublisherDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\PublisherDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:33:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDeletePublisherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Publishers\\IDeletePublisherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:34:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PublisherDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\PublisherDtoValidator.cs",
+              "RelativeDocumentMoniker": "Library.Implementation\\Validators\\PublisherDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\PublisherDtoValidator.cs",
+              "RelativeToolTip": "Library.Implementation\\Validators\\PublisherDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:38:37.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUpdatePublisherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Publishers\\IUpdatePublisherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:34:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Library.Api\\Controllers\\PublishersController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAJAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:41:32.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICreatePublisherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Publishers\\ICreatePublisherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:34:24.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Categories\\ICreateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T23:02:43.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDeleteCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Categories\\IDeleteCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:21:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\Commands\\Categories\\IUpdateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:09:46.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Entity.cs",
+              "RelativeDocumentMoniker": "Library.domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Entity.cs",
+              "RelativeToolTip": "Library.domain\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:18:12.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "Library.domain\\ErrorLog.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\ErrorLog.cs",
+              "RelativeToolTip": "Library.domain\\ErrorLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:18:13.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GlobalSuppressions.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\GlobalSuppressions.cs",
+              "RelativeDocumentMoniker": "Library.domain\\GlobalSuppressions.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\GlobalSuppressions.cs",
+              "RelativeToolTip": "Library.domain\\GlobalSuppressions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:18:14.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Reservation.cs",
+              "RelativeDocumentMoniker": "Library.domain\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Reservation.cs",
+              "RelativeToolTip": "Library.domain\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:18:16.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Review.cs",
               "RelativeDocumentMoniker": "Library.domain\\Review.cs",
@@ -490,12 +729,11 @@
               "RelativeToolTip": "Library.domain\\Review.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:17.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:18:17.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "UseCase.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\UseCase.cs",
               "RelativeDocumentMoniker": "Library.domain\\UseCase.cs",
@@ -503,25 +741,11 @@
               "RelativeToolTip": "Library.domain\\UseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:18.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:18:18.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EfUpdateCategoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
-              "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
-              "RelativeToolTip": "Library.Implementation\\UseCases\\Commands\\Categories\\EfUpdateCategoryCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:12:04.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "UserUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\UserUseCase.cs",
               "RelativeDocumentMoniker": "Library.domain\\UserUseCase.cs",
@@ -529,12 +753,11 @@
               "RelativeToolTip": "Library.domain\\UserUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:18:20.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:18:20.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Publisher.cs",
               "RelativeDocumentMoniker": "Library.domain\\Publisher.cs",
@@ -542,12 +765,11 @@
               "RelativeToolTip": "Library.domain\\Publisher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:07:10.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:07:10.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "CreateCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\CreateCategoryDto.cs",
               "RelativeDocumentMoniker": "Library.Application\\DTO\\CreateCategoryDto.cs",
@@ -555,12 +777,11 @@
               "RelativeToolTip": "Library.Application\\DTO\\CreateCategoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T23:34:50.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T23:34:50.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "CreateCategoryDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\CreateCategoryDtoValidator.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\Validators\\CreateCategoryDtoValidator.cs",
@@ -568,12 +789,11 @@
               "RelativeToolTip": "Library.Implementation\\Validators\\CreateCategoryDtoValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T23:05:01.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T23:05:01.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "RegisterUserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\RegisterUserDtoValidator.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\Validators\\RegisterUserDtoValidator.cs",
@@ -581,12 +801,11 @@
               "RelativeToolTip": "Library.Implementation\\Validators\\RegisterUserDtoValidator.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T20:06:01.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T20:06:01.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\User.cs",
               "RelativeDocumentMoniker": "Library.domain\\User.cs",
@@ -594,12 +813,11 @@
               "RelativeToolTip": "Library.domain\\User.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAADwvxYAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T23:07:15.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T23:07:15.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "NamedEntity.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\NamedEntity.cs",
               "RelativeDocumentMoniker": "Library.domain\\NamedEntity.cs",
@@ -607,12 +825,11 @@
               "RelativeToolTip": "Library.domain\\NamedEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T22:42:28.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T22:42:28.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 42,
               "Title": "CategorySearch.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\DTO\\CategorySearch.cs",
               "RelativeDocumentMoniker": "Library.Application\\DTO\\CategorySearch.cs",
@@ -620,12 +837,11 @@
               "RelativeToolTip": "Library.Application\\DTO\\CategorySearch.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:53:30.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T22:53:30.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Category.cs",
               "RelativeDocumentMoniker": "Library.domain\\Category.cs",
@@ -633,12 +849,11 @@
               "RelativeToolTip": "Library.domain\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T22:41:47.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T22:41:47.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 48,
               "Title": "IApplicationActor.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\IApplicationActor.cs",
               "RelativeDocumentMoniker": "Library.Application\\IApplicationActor.cs",
@@ -646,12 +861,11 @@
               "RelativeToolTip": "Library.Application\\IApplicationActor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T13:21:23.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T13:21:23.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 47,
               "Title": "EntityNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Application\\Exceptions\\EntityNotFoundException.cs",
               "RelativeDocumentMoniker": "Library.Application\\Exceptions\\EntityNotFoundException.cs",
@@ -659,12 +873,11 @@
               "RelativeToolTip": "Library.Application\\Exceptions\\EntityNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:14:32.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T22:14:32.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 46,
               "Title": "UpdateCategoryDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\Validators\\UpdateCategoryDtoValidator.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\Validators\\UpdateCategoryDtoValidator.cs",
@@ -672,12 +885,11 @@
               "RelativeToolTip": "Library.Implementation\\Validators\\UpdateCategoryDtoValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:34:14.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T22:34:14.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "JwtTokenCreator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\JwtTokenCreator.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\JwtTokenCreator.cs",
@@ -689,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 50,
               "Title": "ConsoleExceptionLogger.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\ConsoleExceptionLogger.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\ConsoleExceptionLogger.cs",
@@ -701,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 56,
               "Title": "GlobalExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\GlobalExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\GlobalExceptionHandlingMiddleware.cs",
@@ -713,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "IExceptionLogger.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\IExceptionLogger.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\IExceptionLogger.cs",
@@ -725,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 54,
               "Title": "InMemoryTokenStorage.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\InMemoryTokenStorage.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\InMemoryTokenStorage.cs",
@@ -737,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 53,
               "Title": "ITokenStorage.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\ITokenStorage.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\ITokenStorage.cs",
@@ -749,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "JwtApplicationActorProvider.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\JwtApplicationActorProvider.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\JwtApplicationActorProvider.cs",
@@ -761,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 49,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\AuthController.cs",
@@ -773,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 57,
               "Title": "ContainerExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Core\\ContainerExtensions.cs",
               "RelativeDocumentMoniker": "Library.Api\\Core\\ContainerExtensions.cs",
@@ -785,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 58,
               "Title": "EfRegisterUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
               "RelativeDocumentMoniker": "Library.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
@@ -797,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 59,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\Book.cs",
               "RelativeDocumentMoniker": "Library.domain\\Book.cs",
@@ -809,7 +1021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 60,
               "Title": "BookCategory.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.domain\\BookCategory.cs",
               "RelativeDocumentMoniker": "Library.domain\\BookCategory.cs",
@@ -821,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 63,
               "Title": "AuthRequest.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\DTO\\AuthRequest.cs",
               "RelativeDocumentMoniker": "Library.Api\\DTO\\AuthRequest.cs",
@@ -833,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 62,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\AppSettings.cs",
               "RelativeDocumentMoniker": "Library.Api\\AppSettings.cs",
@@ -845,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 64,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\UserController.cs",
@@ -857,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 65,
               "Title": "AspContext.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.DataAccess\\AspContext.cs",
               "RelativeDocumentMoniker": "Library.DataAccess\\AspContext.cs",
@@ -869,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 61,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Library.Api\\appsettings.json",

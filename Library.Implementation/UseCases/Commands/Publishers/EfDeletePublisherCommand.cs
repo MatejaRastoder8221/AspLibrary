@@ -9,7 +9,7 @@ namespace Library.Implementation.UseCases.Commands.Publishers
     {
         private readonly AspContext _context;
 
-        public int Id => 3; // Command Id
+        public int Id => 5; // Command Id
         public string Name => "Delete Publisher"; // Command Name
         public string Description => "Deletes an existing publisher"; // Command Description
 

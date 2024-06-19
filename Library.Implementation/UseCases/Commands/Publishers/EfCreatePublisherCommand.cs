@@ -9,7 +9,7 @@ namespace Library.Implementation.UseCases.Commands.Publishers
     {
         private readonly AspContext _context;
 
-        public int Id => 1; // Command Id
+        public int Id => 4; // Command Id
         public string Name => "Create Publisher"; // Command Name
         public string Description => "Creates a new publisher"; // Command Description
 

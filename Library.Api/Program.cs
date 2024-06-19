@@ -22,6 +22,9 @@ using System.Text;
 using FluentValidation;
 using Library.API.Validation;
 using Library.Application.DTO;
+using Library.Application.UseCases.Commands.Authors;
+using Library.Implementation.UseCases.Commands.Authors;
+using Library.Implementation.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -111,6 +114,15 @@ builder.Services.AddTransient<IValidator<CreateCategoryDto>, CreateCategoryDtoVa
 builder.Services.AddTransient<IValidator<UpdateCategoryDto>, UpdateCategoryDtoValidator>();
 builder.Services.AddTransient<IValidator<CreatePublisherDto>, CreatePublisherDtoValidator>();
 builder.Services.AddTransient<IValidator<UpdatePublisherDto>, UpdatePublisherDtoValidator>();
+
+//Registering Author commands and validators
+
+builder.Services.AddTransient<ICreateAuthorCommand, EfCreateAuthorCommand>();
+builder.Services.AddTransient<IUpdateAuthorCommand, EfUpdateAuthorCommand>();
+builder.Services.AddTransient<IDeleteAuthorCommand, EfDeleteAuthorCommand>();
+builder.Services.AddTransient<IValidator<CreateAuthorDto>, CreateAuthorDtoValidator>();
+builder.Services.AddTransient<IValidator<UpdateAuthorDto>, UpdateAuthorDtoValidator>();
+
 
 // Register the CreateCategoryCommand
 builder.Services.AddTransient<ICreateCategoryCommand, EfCreateCategoryCommand>();
