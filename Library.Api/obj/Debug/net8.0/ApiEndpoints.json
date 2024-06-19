@@ -26,17 +26,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Library.API.Controllers.CategoriesController",
-    "Method": "Get",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Library.API.Controllers.CategoriesController",
+    "ContainingType": "Library.Api.Controllers.CategoriesController",
     "Method": "Post",
     "RelativePath": "api/Categories",
     "HttpMethod": "POST",
@@ -52,7 +42,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Library.API.Controllers.CategoriesController",
+    "ContainingType": "Library.Api.Controllers.CategoriesController",
     "Method": "Get",
     "RelativePath": "api/Categories/{id}",
     "HttpMethod": "GET",
@@ -68,7 +58,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Library.API.Controllers.CategoriesController",
+    "ContainingType": "Library.Api.Controllers.CategoriesController",
     "Method": "Delete",
     "RelativePath": "api/Categories/{id}",
     "HttpMethod": "DELETE",
@@ -79,6 +69,128 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.CategoriesController",
+    "Method": "Put",
+    "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Library.Application.DTO.UpdateCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "api/Categories/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.PublishersController",
+    "Method": "Post",
+    "RelativePath": "api/Publishers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Library.Application.DTO.CreatePublisherDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.PublishersController",
+    "Method": "Get",
+    "RelativePath": "api/Publishers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.PublishersController",
+    "Method": "Delete",
+    "RelativePath": "api/Publishers/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.PublishersController",
+    "Method": "Put",
+    "RelativePath": "api/Publishers/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Library.Application.DTO.UpdatePublisherDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.PublishersController",
+    "Method": "Get",
+    "RelativePath": "api/Publishers/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

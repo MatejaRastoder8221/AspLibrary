@@ -1,12 +1,13 @@
 using Library.Api;
 using Library.Api.Core;
 using Library.API.Core;
-using Library.API.Validation;
 using Library.Application;
 using Library.Application.UseCases.Commands.Categories;
+using Library.Application.UseCases.Commands.Publishers;
 using Library.DataAccess;
 using Library.Implementation;
 using Library.Implementation.UseCases.Commands.Categories;
+using Library.Implementation.UseCases.Commands.Publishers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
@@ -18,6 +19,9 @@ using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Data;
 using System.Text;
+using FluentValidation;
+using Library.API.Validation;
+using Library.Application.DTO;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -102,11 +106,25 @@ builder.Services.AddAuthorization(options =>
     });
 });
 
-// Add Create Category DTO validator
-builder.Services.AddTransient<CreateCategoryDtoValidator>(); // Register the validator
+// Add validators for DTOs
+builder.Services.AddTransient<IValidator<CreateCategoryDto>, CreateCategoryDtoValidator>();
+builder.Services.AddTransient<IValidator<UpdateCategoryDto>, UpdateCategoryDtoValidator>();
+builder.Services.AddTransient<IValidator<CreatePublisherDto>, CreatePublisherDtoValidator>();
+builder.Services.AddTransient<IValidator<UpdatePublisherDto>, UpdatePublisherDtoValidator>();
 
 // Register the CreateCategoryCommand
 builder.Services.AddTransient<ICreateCategoryCommand, EfCreateCategoryCommand>();
+// Register the UpdateCategoryCommand
+builder.Services.AddTransient<IUpdateCategoryCommand, EfUpdateCategoryCommand>();
+// Register the DeleteCategoryCommand
+builder.Services.AddTransient<IDeleteCategoryCommand, EfDeleteCategoryCommand>();
+
+// Register the CreatePublisherCommand
+builder.Services.AddTransient<ICreatePublisherCommand, EfCreatePublisherCommand>();
+// Register the UpdatePublisherCommand
+builder.Services.AddTransient<IUpdatePublisherCommand, EfUpdatePublisherCommand>();
+// Register the DeletePublisherCommand
+builder.Services.AddTransient<IDeletePublisherCommand, EfDeletePublisherCommand>();
 
 var app = builder.Build();
 

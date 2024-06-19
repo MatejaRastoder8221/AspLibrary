@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using Library.API.Validation;
 using Library.Application.DTO;
 using Library.Application.UseCases.Commands.Categories;
 using Library.DataAccess;
@@ -9,9 +8,9 @@ namespace Library.Implementation.UseCases.Commands.Categories
 {
     public class EfCreateCategoryCommand : EfUseCase, ICreateCategoryCommand
     {
-        private readonly CreateCategoryDtoValidator _validator;
+        private readonly IValidator<CreateCategoryDto> _validator;
 
-        public EfCreateCategoryCommand(AspContext context, CreateCategoryDtoValidator validator)
+        public EfCreateCategoryCommand(AspContext context, IValidator<CreateCategoryDto> validator)
             : base(context)
         {
             _validator = validator;
