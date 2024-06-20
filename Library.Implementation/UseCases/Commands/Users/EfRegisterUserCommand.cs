@@ -11,7 +11,7 @@ namespace Library.Implementation.UseCases.Commands
 {
     public class EfRegisterUserCommand : EfUseCase, IRegisterUserCommand
     {
-        public int Id => 2;
+        public int Id => 10;
 
         public string Name => "UserRegistration";
 

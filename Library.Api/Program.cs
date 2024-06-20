@@ -25,6 +25,12 @@ using Library.Application.DTO;
 using Library.Application.UseCases.Commands.Authors;
 using Library.Implementation.UseCases.Commands.Authors;
 using Library.Implementation.Validators;
+using Library.Application.UseCases.Commands.Books;
+using Library.Implementation.UseCases.Commands.Books;
+using Library.Application.UseCases.Commands.BorrowRecords;
+using Library.Implementation.UseCases.Commands.BorrowRecords;
+using Library.Application.UseCases.Commands.Reservations;
+using Library.Implementation.UseCases.Commands.Reservations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -115,6 +121,24 @@ builder.Services.AddTransient<IValidator<UpdateCategoryDto>, UpdateCategoryDtoVa
 builder.Services.AddTransient<IValidator<CreatePublisherDto>, CreatePublisherDtoValidator>();
 builder.Services.AddTransient<IValidator<UpdatePublisherDto>, UpdatePublisherDtoValidator>();
 
+//registering BorrowRecord commands and validators
+
+builder.Services.AddTransient<ICreateBorrowRecordCommand, EfCreateBorrowRecordCommand>();
+builder.Services.AddTransient<IUpdateBorrowRecordCommand, EfUpdateBorrowRecordCommand>();
+builder.Services.AddTransient<IDeleteBorrowRecordCommand, EfDeleteBorrowRecordCommand>();
+builder.Services.AddTransient<IValidator<CreateBorrowRecordDto>, CreateBorrowRecordDtoValidator>();
+builder.Services.AddTransient<IValidator<UpdateBorrowRecordDto>, UpdateBorrowRecordDtoValidator>();
+
+
+//regisering Reservations commands and validators
+
+builder.Services.AddTransient<ICreateReservationCommand, EfCreateReservationCommand>();
+builder.Services.AddTransient<IUpdateReservationCommand, EfUpdateReservationCommand>();
+builder.Services.AddTransient<IDeleteReservationCommand, EfDeleteReservationCommand>();
+builder.Services.AddTransient<IValidator<CreateReservationDto>, CreateReservationDtoValidator>();
+builder.Services.AddTransient<IValidator<UpdateReservationDto>, UpdateReservationDtoValidator>();
+
+
 //Registering Author commands and validators
 
 builder.Services.AddTransient<ICreateAuthorCommand, EfCreateAuthorCommand>();
@@ -123,6 +147,14 @@ builder.Services.AddTransient<IDeleteAuthorCommand, EfDeleteAuthorCommand>();
 builder.Services.AddTransient<IValidator<CreateAuthorDto>, CreateAuthorDtoValidator>();
 builder.Services.AddTransient<IValidator<UpdateAuthorDto>, UpdateAuthorDtoValidator>();
 
+// Add commands for books
+builder.Services.AddTransient<ICreateBookCommand, EfCreateBookCommand>();
+builder.Services.AddTransient<IUpdateBookCommand, EfUpdateBookCommand>();
+builder.Services.AddTransient<IDeleteBookCommand, EfDeleteBookCommand>();
+
+// Add validators for books
+builder.Services.AddTransient<IValidator<CreateBookDto>, CreateBookDtoValidator>();
+builder.Services.AddTransient<IValidator<UpdateBookDto>, UpdateBookDtoValidator>();
 
 // Register the CreateCategoryCommand
 builder.Services.AddTransient<ICreateCategoryCommand, EfCreateCategoryCommand>();

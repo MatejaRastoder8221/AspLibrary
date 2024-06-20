@@ -1,11 +1,6 @@
 ﻿using Library.domain;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Library.DataAccess.Configurations
 {
@@ -19,8 +14,8 @@ namespace Library.DataAccess.Configurations
                    .HasForeignKey(ba => ba.BookId);
             builder.HasOne(ba => ba.Author)
                    .WithMany(a => a.BookAuthors)
-                   .HasForeignKey(ba => ba.AuthorId);
-
+                   .HasForeignKey(ba => ba.AuthorId)
+                   .OnDelete(DeleteBehavior.Restrict); // Ensure no cascading delete
         }
     }
 }
