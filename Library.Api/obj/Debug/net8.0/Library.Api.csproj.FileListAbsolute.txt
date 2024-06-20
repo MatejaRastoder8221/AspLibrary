@@ -165,3 +165,4 @@ C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.Api\obj\Debug\net
 C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.Api\obj\Debug\net8.0\Library.Api.pdb
 C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.Api\obj\Debug\net8.0\Library.Api.genruntimeconfig.cache
 C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.Api\obj\Debug\net8.0\ref\Library.Api.dll
+C:\Users\Mateja\source\repos\LibraryProject\AspLibrary\Library.Api\bin\Debug\net8.0\AutoMapper.dll

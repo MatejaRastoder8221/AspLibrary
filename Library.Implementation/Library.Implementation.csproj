@@ -8,10 +8,10 @@
   <ItemGroup>
     <Folder Include="Exceptions\" />
     <Folder Include="Logging\" />
-    <Folder Include="UseCases\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="FluentValidation" Version="11.9.2" />
   </ItemGroup>

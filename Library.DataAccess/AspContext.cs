@@ -83,5 +83,6 @@ namespace Library.DataAccess
         public DbSet<UseCase> UseCases { get; set; }
         public DbSet<Image> Images { get; set; } // Renamed from File to Image
         public DbSet<ErrorLog> ErrorLogs { get; set; } // Added ErrorLogs DbSet
+
     }
 }

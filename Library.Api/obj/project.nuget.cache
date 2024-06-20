@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MJwB5FcR0nTLAtCl20E3qBozggnWNe2mVHutyu7QXkOTJl6K+t7XYF2nB+l0qF1w3l+NFIkMo5sUJeBNGp7UpQ==",
+  "dgSpecHash": "jlC1efnJRt7fKYbjGzJoOgumi8KZgpEGD7ZVS/0DCTaXEhsvuMC/HIOkK39WKlT+idnGPtXaQdrIWJZk244Gsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mateja\\source\\repos\\LibraryProject\\AspLibrary\\Library.Api\\Library.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mateja\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

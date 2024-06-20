@@ -1,15 +1,13 @@
-﻿using System;
+﻿using Library.application.UseCases;
+using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using Library.application.UseCases;
 
-namespace Library.Application
+namespace Application.UseCases
 {
-    public interface IQuery<TSearch, TResult> : IUseCase
+    public interface IQuery<TResult, Tsearch> : IUseCase
         where TResult : class
     {
-        TResult Execute(TSearch search);
+        TResult Execute(Tsearch search);
     }
 }
